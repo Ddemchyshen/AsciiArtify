@@ -60,3 +60,7 @@ While minikube and Kind are excellent tools for setting up local Kubernetes clus
 - _Multi-Node Clusters_: Unlike minikube (which is limited to single-node clusters), k3d allows you to effortlessly create multi-node clusters, providing a more realistic Kubernetes environment for development and testing purposes. This enables you to simulate real-world deployments with high availability and scalability.
 - _Seamless Docker Integration_: k3d seamlessly integrates with Docker, the de facto standard container runtime environment. If you're already using Docker for containerization, k3d requires no additional setup in this regard, streamlining your workflow.
 - _Built-in Monitoring_ (with Rancher Desktop): When integrated with Rancher Desktop, k3d offers basic monitoring capabilities, providing immediate insights into your cluster's health and performance. This can be particularly beneficial for troubleshooting and performance optimization. While k3d itself lacks extensive built-in monitoring, Rancher Desktop's integration helps bridge this gap.
+
+## Demo
+
+![Image](.data/demo.gif)
