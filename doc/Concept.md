@@ -63,4 +63,4 @@ While minikube and Kind are excellent tools for setting up local Kubernetes clus
 
 ## Demo
 
-![Image](.data/demo.gif)
+![Image](../data/demo.gif)
